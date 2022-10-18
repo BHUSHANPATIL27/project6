@@ -1,0 +1,104 @@
+
+*{
+    margin: 0;
+    padding: 0;
+
+}
+body{
+    height: 100vh;
+     width: 100vw;
+    
+    
+}
+.main-div{
+   
+
+  background-image: url("images/backcover.svg");
+    background-repeat: no-repeat;
+    background-position: top right;
+    
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.nav-items{
+   display: flex;
+    margin-left: 20px;
+    font-family:Roboto;
+  
+
+}
+.nav-item{
+   margin-left: 50px;
+   font-family: Roboto;
+
+}
+.signin-btn{
+  
+    margin-right: 50px;
+    border: 0;
+    border-radius: 10px;
+    background: linear-gradient(90deg,#965cf2,#ff8adc);
+    color: white;
+    padding: 0px 10px 0px 10px;
+    font-family:Roboto;
+}
+.left-section{
+    position: relative;
+    top: 150px;
+    left: 100px;
+    
+    
+    
+    
+}
+h1{
+   font-size: 80px;
+    color:#965cf2;
+    font-family:Roboto;
+}
+h4{
+    position: relative;
+    top: 100px;
+    font-family:Roboto;
+
+
+}
+.learn-more-btn{
+    position: relative;
+    top: 150px;
+    padding: 30px;
+    border-radius: 50px;
+    border: 0px;
+     color: white;
+    font-size: 25px;
+    background: linear-gradient(90deg,#965cf2,#ff8adc);
+    font-family:Roboto;
+}
+.imgs-div{
+  position: relative;
+    left: 370px;
+    bottom: 230px;
+
+   
+
+}
+.intro{
+
+}
+.vector-img{
+   position: relative;
+    bottom: 230px;
+    left: 60px;
+
+  
+}
+.vector-dot{
+    position: relative;
+    bottom: 300px;
+    left: 10px;
+
+
+}
